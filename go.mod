@@ -1,4 +1,3 @@
-
 module github.com/vancemichael/vehicle-export-ledger
 
 go 1.26
